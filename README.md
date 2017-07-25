@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome here :-D
 
-You can use the [editor on GitHub](https://github.com/vishvanath45/vishvanath45.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Vishva Nath Dutt Sharma, i am in prefinal year of undergraduate studies and my field of study is Information Technology, my field of interest include Algorithm, Data Structure, OS and playing with command line, i am a Tab guy, and strong believer of Free and open source philosophy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vishvanath45/vishvanath45.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me @ visitdutt[at]gmail[dot]com

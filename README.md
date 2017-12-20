@@ -9,7 +9,7 @@ Present Project -
 - Making a Hand writtern Digit Recognizer, using Neural Networks and Deep learning.
  
 Past Project which I have worked on-
-- Face Recognition project - Given a Image, It finds whether there is face present or not, If present then Iys it of Narendra Modi or Arvind Kejeriwal. Web App live at [Image-recog.eigencoders.com](https://image-recog.eigencoders.com) and git repo is [here.](https://github.com/vishvanath45/Precog_Project/tree/master/face_detection)
+- Face Recognition project - Given a Image, It finds whether there is face present or not, If present then Iys it of Narendra Modi or Arvind Kejeriwal. Web App live at [Image-recog.eigencoders.com](http://image-recog.eigencoders.com) and git repo is [here.](https://github.com/vishvanath45/Precog_Project/tree/master/face_detection)
 - Mass downloading of Images from Reddit, fork it from [here](https://github.com/vishvanath45/subReddit-Images-Downloader)
 - Local Http Server - We faced problem due to downtime of internet, so i made this to share files over same network. Fork it [here.](https://github.com/vishvanath45/local_http_server)
 - Reddit bot - My first project playing with APIs, used praw.
@@ -18,11 +18,17 @@ Past Project which I have worked on-
 
 Some quotes which inspire me- 
 
-Who is rich? he that is content.
-Who is wise? hw who learns from everyone.
-You may delay, but time will not.
-When the well's dry, we know the worth of water.
-Help yourself so you can help others,Put the oxygen mask on.
+Who is rich? he that is content.  
+
+Who is wise? hw who learns from everyone.  
+
+You may delay, but time will not.  
+
+When the well's dry, we know the worth of water.  
+
+Help yourself so you can help others,Put the oxygen mask on.  
+
 This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
+
 
 You can contact me @ visitdutt[at]gmail[dot]com

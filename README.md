@@ -1,11 +1,13 @@
 ## Welcome here 😁
 
-Hi, my name is Vishva Nath Dutt Sharma, I am in prefinal year of undergraduate studies and my field of study is Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and open source philosophy.
+Hi, my name is Vishva Nath Dutt Sharma, I am in prefinal year of undergraduate studies and my field of study is Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and open source philosophy.  
+
+I'm also interested in spreading awareness regarding privacy issues in Social Media.
 
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
 _Present Project_ -
-- I am currently working on Sentimental Analysis of Tweetes, you can find my work on [@vishva_nath](https://twitter.com/vishva_nath)  
+- I am currently working on Sentimental Analysis of Tweets, you can find my work on [@vishva_nath](https://twitter.com/vishva_nath). Phase 1 of project is completed. 
 - Making a Hand writtern Digit Recognizer, using Neural Networks and Deep learning.
  
 _Past Projects which I have worked on_-
@@ -19,12 +21,14 @@ _Past Projects which I have worked on_-
 _Plans to do in future_ 
 
 - Design a computer from scratch, completing NAND to TETRIS Course.  
-- Doing Masters in Computer and Human Psychology. \m/ 
+- Doing Masters in Computers and Human Psychology. \m/ 
 
 _Tasks I do in my Free time (As of Feb 23'18) -_ 
 
 - Reading [The Holy Geeta](https://www.amazon.com/Holy-Geeta-Swami-Chinmayananda/dp/817597074X) by Swami Chinmayananda 
-- Watching Memes on reddit.com
+- Watching Memes on reddit.com.
+- Completing, PSYC 110: Introduction to Psychology by Dr. Paul Bloom.  
+- Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight.
 
 _Some quotes which inspire me_- 
 

@@ -1,6 +1,6 @@
 ## Welcome here 😁
 
-Hi, my name is Vishva Nath Dutt Sharma, I am in prefinal year of undergraduate studies and my field of study is Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and open source philosophy.  
+Hi, my name is Vishva Nath Dutt Sharma, I am in final year of undergraduate studies and my field of study is Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and open source philosophy.  
 
 I'm also interested in spreading awareness regarding privacy issues in Social Media.
 
@@ -9,7 +9,7 @@ I am also a competitive programmer, you can find me on [Codeforces](http://codef
 _Present Project_ -
 - I am currently working on Sentimental Analysis of Tweets, you can find my work on [@vishva_nath](https://twitter.com/vishva_nath). Phase 1 of project is completed. 
 - Making a Hand writtern Digit Recognizer, using Neural Networks and Deep learning.  
-- Making a LSTM network. 
+- Making a LSTM network.
  
 _Past Projects which I have worked on_-
 - Face Recognition project - Given a Image, It finds whether there is face present or not, If present then is it of Narendra Modi or Arvind Kejeriwal. Web App live at(not anymore, hosting costs are too much) [Image-recog.eigencoders.com](http://image-recog.eigencoders.com) and git repo is [here.](https://github.com/vishvanath45/Precog_Project/tree/master/face_detection)
@@ -27,7 +27,7 @@ _Plans to do in future_
 
 _Tasks I do in my Free time (As of Mar 23'18) -_ 
 
-- Reading [The Holy Geeta](https://www.amazon.com/Holy-Geeta-Swami-Chinmayananda/dp/817597074X) by Swami Chinmayananda 
+- Reading [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi) 
 - Watching Memes on reddit.com.
 - Completing, PSYC 110: Introduction to Psychology by Dr. Paul Bloom.  
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 
@@ -48,8 +48,8 @@ Help yourself so you can help others,Put the oxygen mask on.
 This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
 
 _Contact_- 
-Currently, I am doing Internship at [Precog, IIITD](http://precog.iiitd.edu.in/), you can find in their lab.   
+Currently, I ~am doing~ completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/), you can find in their lab(not anymore).   
 
-Otherwise, you can find me mostly in my room at NITDGP.
+You can find me mostly in my room B-320, Hall 5 at NITDGP.
 
 You can contact me, recommend me a book to read or a song to listen @ visitdutt[a@t]gmail[dot]com

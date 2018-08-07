@@ -48,8 +48,6 @@ Help yourself so you can help others,Put the oxygen mask on.
 This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
 
 _Contact_- 
-Currently, I ~am doing~ completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/), you can find in their lab(not anymore).   
-
-You can find me mostly in my room B-320, Hall 5 at NITDGP.
-
-You can contact me, recommend me a book to read or a song to listen @ visitdutt[a@t]gmail[dot]com
+I ~~am doing~~ completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/).
+Now, I spend most of my time in my room at Hall 5, NITDGP.
+You can recommend me a book to read or a song to listen @ visitdutt[a@t]gmail[dot]com

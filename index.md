@@ -7,7 +7,7 @@ I'm also interested in spreading awareness regarding privacy issues in Social Me
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
 ### _Present Project_ -
-- I am currently working on Sentimental Analysis of Tweets, you can find my work on [@vishva_nath](https://twitter.com/vishva_nath). Phase 1 of project is completed. 
+- I am currently working on Sentimental Analysis of Tweets, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
 - Making a Hand writtern Digit Recognizer, using Neural Networks and Deep learning.  
 - Making a LSTM network.
  

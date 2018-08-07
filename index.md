@@ -6,12 +6,12 @@ I'm also interested in spreading awareness regarding privacy issues on Social Me
 
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
-### _Present Project_ -
+### _Present Project_ 
 - I am currently working on Sentimental Analysis of Tweets, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
 - Making a Hand writtern Digit Recognizer, using Neural Networks and Deep learning.  
 - Making a LSTM network.
  
-### _Past Projects which I have worked on_-
+### _Past Projects which I have worked on_
 - Face Recognition project - Given a Image, It finds whether there is face present or not, If present then is it of Narendra Modi or Arvind Kejeriwal. Web App live at(not anymore, hosting costs are too much) [Image-recog.eigencoders.com](http://image-recog.eigencoders.com) and git repo is [here.](https://github.com/vishvanath45/Precog_Project/tree/master/face_detection)
 - Mass downloading of Images from Reddit, fork it from [here](https://github.com/vishvanath45/subReddit-Images-Downloader)
 - Local Http Server - We faced problem due to downtime of internet, so I made this to share files over same network. Fork it [here.](https://github.com/vishvanath45/local_http_server)
@@ -25,7 +25,7 @@ I am also a competitive programmer, you can find me on [Codeforces](http://codef
 - Doing Masters in Computers and Human Psychology. \m/ 
 - Work for improving Primary Education System in my country. 
 
-### _Tasks I do in my Free time (As of Aug'18) -_ 
+### _Tasks I do in my Free time (As of Aug'18)_ 
 
 - Reading [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi) 
 - Watching Memes on reddit.com.
@@ -33,7 +33,7 @@ I am also a competitive programmer, you can find me on [Codeforces](http://codef
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 
 - I am hooked to this song, Amake Amar Moto Thakte Dao by - Anupam Roy. 
 
-### _Some quotes which inspire me_- 
+### _Some quotes which inspire me_ 
 
 Who is rich? he that is content.  
 
@@ -47,7 +47,7 @@ Help yourself so you can help others,Put the oxygen mask on.
 
 This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
 
-### _Contact_- 
+### _Contact_ 
 I ~~am doing~~ completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/).  
 Now, I spend most of my time in my room at Hall 5, NITDGP.   
 You can recommend me a book to read or a song to listen @ visitdutt[a@t]gmail[dot]com

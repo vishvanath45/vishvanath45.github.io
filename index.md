@@ -1,4 +1,4 @@
-## _Welcome here_ 😁
+## Welcome here 😁
 
 Hi, my name is Vishva Nath Dutt Sharma, I am in final year of undergraduate studies and my field of study is Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and Open Source philosophy.  
 
@@ -6,18 +6,18 @@ I'm also interested in spreading awareness regarding privacy issues on Social Me
 
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
-### _Present Project_ 
-- I am currently working on Sentimental Analysis of Tweets, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
-- Making a Hand writtern Digit Recognizer, using Neural Networks and Deep learning.  
-- Making a LSTM network.
+### _Current Projects_ 
+- I am currently working on **Sentimental Analysis of Tweets**, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
+- Making a **Hand writtern Digit Recognizer**, using Neural Networks and Deep learning.  
+- Making a **Long Short Term Memory**(LSTM) network to enact like me and reply to messages.
  
-### _Past Projects which I have worked on_
-- Face Recognition project - Given a Image, It finds whether there is face present or not, If present then is it of Narendra Modi or Arvind Kejeriwal. Web App live at(not anymore, hosting costs are too much) [Image-recog.eigencoders.com](http://image-recog.eigencoders.com) and git repo is [here.](https://github.com/vishvanath45/Precog_Project/tree/master/face_detection)
-- Mass downloading of Images from Reddit, fork it from [here](https://github.com/vishvanath45/subReddit-Images-Downloader)
-- Local Http Server - We faced problem due to downtime of internet, so I made this to share files over same network. Fork it [here.](https://github.com/vishvanath45/local_http_server)
-- Reddit bot - My first project playing with APIs, used praw.
-- Fearch - Contribited to development of this browser extension,used in searching files over FTP. I wrote a nice article of my work progress during those days, you can read it [here.](https://vishvanathblog.wordpress.com/days-with-gsoc-heat17/)
-- Local Activity Tracker (under progress) - Helpful in conducting online examination by sending screenshot, camera recording(face tracking) to server helpful in judging whether person taking exam is cheating or not.
+### _Past Projects_
+- **Face Rec** - Given a Image, It finds whether there is face present or not, If present then is it of Narendra Modi or Arvind Kejeriwal. Web App live at(not anymore, hosting costs are too much) [Image-recog.eigencoders.com](http://image-recog.eigencoders.com) and git repo is [here.](https://github.com/vishvanath45/Precog_Project/tree/master/face_detection)
+- **Mass downloading of Images** from Reddit, fork it from [here](https://github.com/vishvanath45/subReddit-Images-Downloader)
+- **Local Http Server** - We faced problem due to downtime of internet, so I made this to share files over same network. Fork it [here.](https://github.com/vishvanath45/local_http_server)
+- **Reddit bot** - My first project playing with APIs, used praw.
+- **Fearch** - Contribited to development of this browser extension,used in searching files over FTP. I wrote a nice article of my work progress during those days, you can read it [here.](https://vishvanathblog.wordpress.com/days-with-gsoc-heat17/)
+- **Local Activity Tracker** (under progress) - Helpful in conducting online examination by sending screenshot, camera recording(face tracking) to server helpful in judging whether person taking exam is cheating or not.
 
 ### _Plans to do in future_ 
 
@@ -31,21 +31,21 @@ I am also a competitive programmer, you can find me on [Codeforces](http://codef
 - Watching Memes on reddit.com.
 - Completing, PSYC 110: Introduction to Psychology by Dr. Paul Bloom.  
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 
-- I am hooked to this song, Amake Amar Moto Thakte Dao by - Anupam Roy. 
+- I am hooked to this song, [Amake Amar Moto Thakte Dao by - Anupam Roy](https://www.youtube.com/watch?v=aprmAXdB-yQ). 
 
 ### _Some quotes which inspire me_ 
 
-Who is rich? he that is content.  
+> Who is rich? he that is content.  
 
-Who is wise? he who learns from everyone.  
+> Who is wise? he who learns from everyone.  
 
-You may delay, but time will not.  
+> You may delay, but time will not.  
 
-When the well's dry, we know the worth of water.  
+> When the well's dry, we know the worth of water.  
 
-Help yourself so you can help others,Put the oxygen mask on.  
+> Help yourself so you can help others,Put the oxygen mask on.  
 
-This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
+> This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
 
 ### _Contact_ 
 I ~~am doing~~ completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/).  

@@ -33,7 +33,7 @@ Recent Activities -
 - Doing Masters in Computers and Human Psychology. \m/ 
 - Work for improving Primary Education System in my country. 
 
-### _Tasks I do in my Free time (As of Aug'18)_ 
+### _Tasks I do in my Free time (As of Nov'18)_ 
 
 - Reading [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi)
 - Reading Premchand's Short Stories.

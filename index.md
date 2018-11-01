@@ -6,7 +6,13 @@ I'm also interested in spreading awareness regarding privacy issues on Social Me
 
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
-Recently, I gave a talk on **Fake News, Rumours, Hate : Social Media, Connecting or Destroying Lives?** slides [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/vishvanath45/Presentations/master/Fake%20News%2C%20Rumours.pdf)
+Recent Activities -
+- Gave a talk on **Fake News, Rumours, Hate : Social Media, Connecting or Destroying Lives?** slides [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/vishvanath45/Presentations/master/Fake%20News%2C%20Rumours.pdf)
+
+- Wrote a blog post on **"Why Privacy Matters ?"** [link](https://docs.google.com/document/d/1E0PrGrhvuxRBbzQaKEJYdwYZu_vlTzJZ-kgWpPHncKw/edit?usp=sharing)
+
+- Made a Full Stack Python based Web Application, which can emulate Codechef Programming contests in Virtual Mode. [Link to project](http://149.129.145.244/), [Github Repo](https://github.com/vishvanath45/CodeHike)
+
 
 ### _Current Projects_ 
 - I am currently working on **Sentimental Analysis of Tweets**, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
@@ -29,7 +35,8 @@ Recently, I gave a talk on **Fake News, Rumours, Hate : Social Media, Connecting
 
 ### _Tasks I do in my Free time (As of Aug'18)_ 
 
-- Reading [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi) 
+- Reading [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi)
+- Reading Premchand's Short Stories.
 - Watching Memes on reddit.com.
 - Completing, PSYC 110: Introduction to Psychology by Dr. Paul Bloom.  
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 

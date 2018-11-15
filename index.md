@@ -11,7 +11,8 @@ Recent Activities -
 
 - Wrote a blog post on **"Why Privacy Matters ?"** [link](https://docs.google.com/document/d/1E0PrGrhvuxRBbzQaKEJYdwYZu_vlTzJZ-kgWpPHncKw/edit?usp=sharing)
 
-- Made a Full Stack Python based Web Application, which can emulate Codechef Programming contests in Virtual Mode. [Link to project](http://149.129.145.244/), [Github Repo](https://github.com/vishvanath45/CodeHike)
+- **Codechef Virtual Contests** - Made a Full Stack Python based Web Application, which can emulate Codechef Programming contests in Virtual Mode. [~~Link to project~~](http://149.129.145.244/)(Does not work due to high server costs), [Github Repo](https://github.com/vishvanath45/CodeHike), [Slides for understanding](https://docs.google.com/presentation/d/1pY5egzHQp-wdqPZP5a9booA7QRfu0frSLaXEnb-2Qmk/edit#slide=id.p), [Video Presentation](https://drive.google.com/file/d/1gWXbUoU-yJK3NUkPO--LcB2_d_7aOZY1/view).   
+This project was developed during [Codechef-Alibaba Hackathon](https://www.codechef.com/CAH1801), My team (Poor Villagers) won 2nd prize globally. [Final Standings](https://www.codechef.com/rankings/CAH1801) 
 
 
 ### _Current Projects_ 

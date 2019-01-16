@@ -7,6 +7,8 @@ I'm also interested in spreading awareness regarding privacy issues on Social Me
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
 Recent Activities -
+- Set up [PiHole](https://pi-hole.net/) on Cloud(VM), thus **disabling ads/malware all across my devices**, wrote a [guide](https://gist.github.com/vishvanath45/a1c8ae34aa88401eed7fdba3f0831c59).
+
 - Gave a talk on **Fake News, Rumours, Hate : Social Media, Connecting or Destroying Lives?** slides [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/vishvanath45/Presentations/master/Fake%20News%2C%20Rumours.pdf)
 
 - Wrote a blog post on **"Why Privacy Matters ?"** [link](https://docs.google.com/document/d/1E0PrGrhvuxRBbzQaKEJYdwYZu_vlTzJZ-kgWpPHncKw/edit?usp=sharing)
@@ -17,7 +19,6 @@ This project was developed during [Codechef-Alibaba Hackathon](https://www.codec
 
 ### _Current Projects_ 
 - I am currently working on **Sentimental Analysis of Tweets**, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
-- Making a **Hand writtern Digit Recognizer**, using Neural Networks and Deep learning.  
 - Making a **Long Short Term Memory**(LSTM) network to enact like me and reply to messages.
  
 ### _Past Projects_
@@ -34,14 +35,14 @@ This project was developed during [Codechef-Alibaba Hackathon](https://www.codec
 - Doing Masters in Computers and Human Psychology. \m/ 
 - Work for improving Primary Education System in my country. 
 
-### _Tasks I do in my Free time (As of Nov'18)_ 
+### _Tasks I do in my Free time (As of Jan'19)_ 
 
-- Reading [Autobiography of a Yogi](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi)
+- Reading [The Lessons of History](https://en.wikipedia.org/wiki/The_Lessons_of_History) by Will Durant.
 - Reading Premchand's Short Stories.
 - Watching Memes on reddit.com.
 - Completing, PSYC 110: Introduction to Psychology by Dr. Paul Bloom.  
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 
-- I am hooked to this song, [Amake Amar Moto Thakte Dao by - Anupam Roy](https://www.youtube.com/watch?v=aprmAXdB-yQ). 
+- I am hooked to this song, [Time Flies - Porcupine Tree](https://www.youtube.com/watch?v=JTEWlSTQ1RI). 
 
 ### _Some quotes which inspire me_ 
 

@@ -16,8 +16,7 @@ Recent Activities -
 - **Codechef Virtual Contests** - Made a Full Stack Python based Web Application, which can emulate Codechef Programming contests in Virtual Mode. [~~Link to project~~](http://149.129.145.244/)(Does not work due to high server costs), [Github Repo](https://github.com/vishvanath45/CodeHike), [Slides for understanding](https://docs.google.com/presentation/d/1pY5egzHQp-wdqPZP5a9booA7QRfu0frSLaXEnb-2Qmk/edit#slide=id.p), [Video Presentation](https://drive.google.com/file/d/1gWXbUoU-yJK3NUkPO--LcB2_d_7aOZY1/view).   
 This project was developed during [Codechef-Alibaba Hackathon](https://www.codechef.com/CAH1801), My team (Poor Villagers) won 2nd prize globally. [Final Standings](https://www.codechef.com/rankings/CAH1801) 
 
-
-### _Current Projects_ 
+### _Ongoing Projects(Partially Complete)_ 
 - I am currently working on **Sentimental Analysis of Tweets**, you can find my work at [Git repo](https://github.com/vishvanath45/Sentimental_analysis). Phase 1 of project is completed. 
 - Making a **Long Short Term Memory**(LSTM) network to enact like me and reply to messages.
  
@@ -35,12 +34,11 @@ This project was developed during [Codechef-Alibaba Hackathon](https://www.codec
 - Doing Masters in Computers and Human Psychology. \m/ 
 - Work for improving Primary Education System in my country. 
 
-### _Tasks I do in my Free time (As of Jan'19)_ 
+### _Tasks I do in my Free time (As of Jun'19)_ 
 
 - Reading [The Lessons of History](https://en.wikipedia.org/wiki/The_Lessons_of_History) by Will Durant.
 - Reading Premchand's Short Stories.
 - Watching Memes on reddit.com.
-- Completing, PSYC 110: Introduction to Psychology by Dr. Paul Bloom.  
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 
 - I am hooked to this song, [Time Flies - Porcupine Tree](https://www.youtube.com/watch?v=JTEWlSTQ1RI). 
 
@@ -58,7 +56,18 @@ This project was developed during [Codechef-Alibaba Hackathon](https://www.codec
 
 > This I have seen in life—those who are overcautious about themselves fall into dangers at every step; those who are afraid of losing honour and respect, get only disgrace; and those who are always afraid of loss, always lose.
 
+### _Books I frequently read_
+
+> “I would rather read the best hundred books over and over again until I absorb them rather than read every single book out there” - [@naval](https://twitter.com/naval)
+
+- The Richest Man in Babylon
+- The Lessons of History
+- Gita
+- Autobiography of a Yogi      
+would love to tell you more in person. :)
+
 ### _Contact_ 
-I ~~am doing~~ completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/).  
-Now, I spend most of my time in my room at Hall 5, NITDGP.   
+~~I am doing completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/).~~  
+~~Now, I spend most of my time in my room at Hall 5, NITDGP.~~   
+If you happen to be in Banglore, I would love to have a conversation with you. :D   
 You can recommend me a book to read or a song to listen @ visitdutt[a@t]gmail[dot]com

@@ -6,6 +6,9 @@ I'm also interested in spreading awareness regarding privacy issues on Social Me
 
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
+Active Project(s) - 
+- Made a **Simpl_Bookmark** application, easy to use and access, an alternative to Pocket app, head over to - http://35.222.229.121 powered by [flask](http://flask.pocoo.org/) and [redis](https://redis.io/), [link to repository](http://github.com/vishvanath45/simple_bookmark)
+
 Recent Activities -
 - Set up [PiHole](https://pi-hole.net/) on Cloud(VM), thus **disabling ads/malware all across my devices**, wrote a [guide](https://gist.github.com/vishvanath45/a1c8ae34aa88401eed7fdba3f0831c59).
 

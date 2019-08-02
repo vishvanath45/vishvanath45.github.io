@@ -1,13 +1,15 @@
 ## Welcome here 😁
 
-Hi, my name is Vishva Nath Dutt Sharma, I am in final year of undergraduate studies and my field of study is Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and Open Source philosophy.  
+Hi, my name is Vishva Nath Dutt Sharma, I am backend engineer at [@GoJek](https://www.gojek.io/), graduated in Information Technology, my interests include Algorithms, Data Structure, OS and playing with command line, I am a Tab guy, and strong believer of Free and Open Source philosophy.  
 
 I'm also interested in spreading awareness regarding privacy issues on Social Media.
 
 I am also a competitive programmer, you can find me on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
 Active Project(s) - 
-- Made a **Simpl_Bookmark** application, easy to use and access, an alternative to Pocket app, head over to - http://35.222.229.121 powered by [flask](http://flask.pocoo.org/) and [redis](https://redis.io/), [link to repository](http://github.com/vishvanath45/simple_bookmark)
+- Build a application to prioritize tasks for the day using eisenhower's matrix, build in GoLang, powered by revel. [Link to repo](https://github.com/vishvanath45/do_it).
+
+- Made a **Simpl_Bookmark** application, easy to use and access, an alternative to Pocket app, head over to - [http://35.222.229.121](http://35.222.229.121) powered by [flask](http://flask.pocoo.org/) and [redis](https://redis.io/), [link to repository](http://github.com/vishvanath45/simple_bookmark)
 
 Recent Activities -
 - Set up [PiHole](https://pi-hole.net/) on Cloud(VM), thus **disabling ads/malware all across my devices**, wrote a [guide](https://gist.github.com/vishvanath45/a1c8ae34aa88401eed7fdba3f0831c59).
@@ -28,22 +30,21 @@ This project was developed during [Codechef-Alibaba Hackathon](https://www.codec
 - **Mass downloading of Images** from Reddit, fork it from [here](https://github.com/vishvanath45/subReddit-Images-Downloader)
 - **Local Http Server** - We faced problem due to downtime of internet, so I made this to share files over same network. Fork it [here.](https://github.com/vishvanath45/local_http_server)
 - **Reddit bot** - My first project playing with APIs, used praw.
-- **Fearch** - Contribited to development of this browser extension,used in searching files over FTP. I wrote a nice article of my work progress during those days, you can read it [here.](https://vishvanathblog.wordpress.com/days-with-gsoc-heat17/)
-- **Local Activity Tracker** (under progress) - Helpful in conducting online examination by sending screenshot, camera recording(face tracking) to server helpful in judging whether person taking exam is cheating or not.
+- **Fearch** - Contributed to development of this browser extension,used in searching files over FTP. I wrote a nice article of my work progress during those days, you can read it [here.](https://vishvanathblog.wordpress.com/days-with-gsoc-heat17/)
+- ~~**Local Activity Tracker** (under progress) - Helpful in conducting online examination by sending screenshot, camera recording(face tracking) to server helpful in judging whether person taking exam is cheating or not.~~(Could never focus on this)
 
 ### _Plans to do in future_ 
 
-- Design a computer from scratch, completing NAND to TETRIS Course.  
+- Design a computer from scratch, completing NAND to TETRIS Course.
 - Doing Masters in Computers and Human Psychology. \m/ 
 - Work for improving Primary Education System in my country. 
 
-### _Tasks I do in my Free time (As of Jun'19)_ 
+### _Tasks I do in my Free time (As of Aug'19)_ 
 
+- Reading The Pragmatic Programmer
+- Started a course in Microeconomics. 
 - Reading [The Lessons of History](https://en.wikipedia.org/wiki/The_Lessons_of_History) by Will Durant.
-- Reading Premchand's Short Stories.
-- Watching Memes on reddit.com.
 - Watching Youtube Channels like 3Blue1Brown, ElectroBoom, VSause, VisualPolitikEN, Last_Week_Tonight. 
-- I am hooked to this song, [Time Flies - Porcupine Tree](https://www.youtube.com/watch?v=JTEWlSTQ1RI). 
 
 ### _Some quotes which inspire me_ 
 
@@ -70,7 +71,6 @@ This project was developed during [Codechef-Alibaba Hackathon](https://www.codec
 would love to tell you more in person. :)
 
 ### _Contact_ 
-~~I am doing completed Internship at [Precog, IIITD](http://precog.iiitd.edu.in/).~~  
-~~Now, I spend most of my time in my room at Hall 5, NITDGP.~~   
+
 If you happen to be in Banglore, I would love to have a conversation with you. :D   
-You can recommend me a book to read or a song to listen @ visitdutt[a@t]gmail[dot]com
+You can recommend me a book to read or a song to listen @ vishvanath[@]protonmail.com

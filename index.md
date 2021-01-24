@@ -58,8 +58,6 @@ I used to take part in competitive programming competitions, you can find my han
 
 ### _Some quotes which inspire me_ 
 
-> Who is rich? he that is content.  
-
 > Who is wise? he who learns from everyone.  
 
 > You may delay, but time will not.  
@@ -76,17 +74,13 @@ I used to take part in competitive programming competitions, you can find my han
 
 > Doing this faster and faiing is better than not doing or being slow in taking decisions.
 
-### _Books I frequently read_
+> Who is rich? he that is content.  
 
-> “I would rather read the best hundred books over and over again until I absorb them rather than read every single book out there” - [@naval](https://twitter.com/naval)
+### _Books I am currently reading (Jan'21)_
 
-- The Richest Man in Babylon
-- The Lessons of History
-- Fooled by Randomness
-- The Kite Runner (my humble friend gifted this one, got me emotional)
-- Gita
-- Autobiography of a Yogi      
-would love to tell you more in person. :)
+> The Power of now
+
+> Creative Selection
 
 ### _Contact_ 
 

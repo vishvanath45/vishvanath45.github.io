@@ -6,6 +6,11 @@ I'm also interested in spreading awareness regarding privacy issues on Social Me
 
 I used to take part in competitive programming competitions, you can find my handle on [Codeforces](http://codeforces.com/profile/v_ns), [CodeChef](https://www.codechef.com/users/v_ns), [SpOJ](http://www.spoj.com/users/v_ns/).
 
+### Blog posts -
+
+- [try 1](./post1.html)
+
+
 ### Active Project(s) - 
 
 - Involved in no active personal projects right now. :'(

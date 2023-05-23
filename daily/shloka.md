@@ -4,8 +4,20 @@ layout: dailypost
 
 ## Daily śloka
 
-##### Shloka or śloka refers to any verse or stanza, here perticularly, I will try to write and explain my understanding of it, the reference would be from books like Durga-Saptsathi, Sundarkand or Ramcharitmanas.
+##### Shloka or śloka refers to any verse or stanza, here particularly, I will try to write and explain my understanding of it, the reference would be from books like Durga-Saptsathi, Sundarkand or Ramcharitmanas.
 
+
+
+23 May 2023
+
+> निःश्र्वासे न हि विश्वासः कदा रुद्धो भविष्यति । 
+> कीर्तनीयमतो बाल्याद्धरेनमिव केवलम् ॥ 
+>  Nilantha Goswami
+
+Meaning:
+
+There is no certainity of breath, as it will stop in future
+So, Sing the name of lord hari from the childhood
 
 
 22 March 2023// चैत्र शुक्ल प्रतिपदा

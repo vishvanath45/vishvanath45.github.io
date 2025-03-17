@@ -7,6 +7,7 @@ I used to take part in competitive programming competitions, you can find my han
 ### Blog posts -
 
 - [Daily śloka](./daily/shloka.html)
+- [Aditya Hridyam](./daily/aditya-hridyam.html)
 
 ### Active Project(s) - 
 

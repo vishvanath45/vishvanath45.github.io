@@ -11,8 +11,7 @@ I used to take part in competitive programming competitions, you can find my han
 
 ### Active Project(s) - 
 
-- Involved in no active personal projects right now. :'(
-
+- [S2ID Visualizer](./extensions/s2idvizualizer.html)
 ### Recent Activities -
 
 - Set up [PiHole](https://pi-hole.net/) on Cloud(VM), thus **disabling ads/malware all across my devices**, wrote a [guide](https://gist.github.com/vishvanath45/a1c8ae34aa88401eed7fdba3f0831c59).
